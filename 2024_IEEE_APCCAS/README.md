@@ -3,7 +3,7 @@ https://www.apccas2024.org/index.php
 
 ---
 ## A1L-A: Artificial Intelligence Circuits, Systems, & Applications 1 (8 papers)
-Chr: Yi-Chung Wu, Kun-Chih Chen
+Chr: Yi-Chung Wu, Kun-Chih Chen \
 https://epapers2.org/apccas2024/ESR/session_view.php?session_id=6
 
 * 9003	1	The Intermittent Fault Diagnosis of Analog Circuits Based on EMD-CrossFormer
@@ -25,7 +25,7 @@ https://epapers2.org/apccas2024/ESR/session_view.php?session_id=6
 
 ---
 ## A2L-A: Artificial Intelligence Circuits, Systems, & Applications 2 Session
-Chair: Kun-Chih Chen, Chung-An Shen
+Chair: Kun-Chih Chen, Chung-An Shen \
 https://epapers2.org/apccas2024/ESR/session_view.php?session_id=7
 
 * 9068	1	A 250.3µW Versatile Sound Feature Extractor Using 1024-Point FFT 64-ch LogMel Filter in 40nm CMOS
