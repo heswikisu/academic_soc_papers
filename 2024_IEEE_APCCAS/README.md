@@ -8,11 +8,11 @@ https://www.apccas2024.org/index.php
 IC Design Talent Cultivation Ecosystem - Taiwan's Successful Story \
 https://www.apccas2024.org/industry.php
 
-* TSRI Speaker：Chi-Shi Chen
-* Arm Speaker：Richard Buttrey
-* Cadence Speaker：Kevin Tsai
-* SiCADA / Synopsys Speaker：Yung Wuu
-* TSMC Speaker：Clark Chen
+* TSRI Speaker: Chi-Shi Chen
+* Arm Speaker: Richard Buttrey
+* Cadence Speaker: Kevin Tsai
+* SiCADA / Synopsys Speaker: Yung Wuu
+* TSMC Speaker: Clark Chen
 
 ---
 ## A1L-A: Artificial Intelligence Circuits, Systems, & Applications 1 Session 
