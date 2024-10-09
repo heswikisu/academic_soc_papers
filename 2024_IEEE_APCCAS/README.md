@@ -63,7 +63,7 @@ https://epapers2.org/apccas2024/ESR/session_view.php?session_id=8
 * 9190	1	Design of Extended RISC-V for Q-Learning Hardware Accelerator Using HW/SW Co-Design
   * Infall Syafalni, Muhammad Sulthan Mazaya, Muhammad Raihan Elfazri, Eko Mursito Budi, Nana Sutisna, Rahmat Mulyawan, T..
 ---
-## Artificial Intelligence Circuits, Systems, & Applications 4 Session
+## B3L-A: Artificial Intelligence Circuits, Systems, & Applications 4 Session
 Chair: Tsung-Tai Yeh, Kun-Chih Chen \
 https://epapers2.org/apccas2024/ESR/session_view.php?session_id=9
 
