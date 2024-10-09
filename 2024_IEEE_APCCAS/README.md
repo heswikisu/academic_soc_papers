@@ -82,3 +82,41 @@ https://epapers2.org/apccas2024/ESR/session_view.php?session_id=9
 * 9091	2	An Efficient On-Chip Storage Solution for CNN Accelerator Based on Self-Tuning and Co-Scheduling
   *Chengrui Li, Ning Zhao, Xiaopeng Zhang, Wei Gao, Chenjia Xie, Yuan Du, Li Du
 
+---
+## 	A1L-D: Emerging Hardware/Software Optimization Techniques for AI & CIM Session
+Chair: Liang Chang, Wei Mao \
+https://epapers2.org/apccas2024/ESR/session_view.php?session_id=27
+
+* 9033	9.1	D2D-GPT: Leveraging Incremental Learning GPT for Seamless Design Rule Conversion Across EDA Tools
+  * Chao Wang, Yunxiang Zhang, Wangzilu Lu, Jiajie Huang, Qing Zhang, Minghui Yin, Yuhang Zhang, Zhiqiang Li, Yongfu Li
+* 9248	9.1	A Low-Hardware-Overhead, High-Energy-Efficiency, and End-to-End CNN-Based Feature Extraction Accelerator for Mobile Visual SLAM
+  * Zehua Yin, Bingqiang Liu, Jipeng Wang, Zixuan Shen, Guangyao Li, Chao Wang
+* 9267	9.1	SSPE : A Device-Edge SNN Inference Artificial Intelligence Processor in Supporting Smart Computing
+  * Zhou Wang, Haochen Du, Jiuren Zhou, Yanqing Xu, Xiaonan Tang, Tainchun Ye, Shaojun Wei, Shushan Qiao, Shouyi Yin
+* 9085	9.5	A Precision-Scalable Energy-Efficient DNN Accelerator for Robotic Grasping
+  * Zixiong Feng, Zhongfeng Wang, Wendong Mao
+* 9089	9.5	A Streaming Transformer Accelerator with Efficient On-Chip Normalization
+  * Ning Zhao, Jiayuan Chen, Jingjing Lv, Chenjia Xie, Yuan Du, Li Du
+* 9126	9.5	Process and Design Considerations for Spin Orbit Torque MRAM
+  * Zhaohao Wang, Chao Wang, Min Wang, Chenyi Wang, Kaihua Cao, Chenlin Xu, Cong Zhang, Yunpeng Li, Hong-Xi Liu
+* 9250	9.5	A 10-Bit Two-Stage Pipeline SAR ADC in 55nm CMOS for Compute-in-Memory Applications
+  * Xiapeng Xu, Yongteng Ma, Xuliang Yu, Fanzi Meng, Wei-Han Yu, Liang Zhao
+
+---
+## B1L-E: Hardware Security: From Theory to Practice to Standardization Session
+Chair: Johann Knechtel, Nalla Anandakumar \
+https://epapers2.org/apccas2024/ESR/session_view.php?session_id=29
+
+* 9058	9.10	Toward Structurally Safe Design-for-Trust Techniques
+  * Armin Darjani, Nima Kavand, Akash Kumar
+* 9159	9.10	PUF-Based Lightweight Authentication for Binarized Neural Networks
+  * Gokulnath Rajendran, Suman Deb, Anupam Chattopadhyay
+* 9208	9.10	FHEDGE: Encrypted Inference on Lightweight Edge Devices
+  * Soumik Sinha, Sayandeep Saha, Ayantika Chatterjee, Debdeep Mukhopadhyay
+* 9220	9.10	Innovations in Hardware Security: Leveraging FeFET Technology for Future Opportunities
+  * Anirban Kar, Yogesh Singh Chauhan, Hussam Amrouch
+* 9281	9.10	Robust and Energy-Efficient Hardware Architectures for DIZY Stream Cipher
+  * Martin Schmid, Tolga Arul, Elif Bilge Kavun, Francesco Regazzoni, Orhun Kara
+* 9050	9.10	Safeguarding the Silicon: Strategies for Integrated Circuit Layout Protection
+  *Jitendra Bhandari, Jayanth Gopinath, Mohammed Ashraf, Johann Knechtel, Ozgur Sinanoglu, Ramesh Karri
+
